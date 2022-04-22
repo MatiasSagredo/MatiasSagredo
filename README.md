@@ -11,6 +11,7 @@ git pull
 CSS:
 ```css
 html, body {
- background-color: #232323;
+ margin: 0px;
+ height: 100%;
 }
 ```
