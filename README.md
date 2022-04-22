@@ -15,3 +15,8 @@ html, body {
  height: 100%;
 }
 ```
+
+JS:
+```js
+console.log(2 + 3);
+```
