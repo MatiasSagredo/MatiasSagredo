@@ -1,5 +1,15 @@
-### Siganme Plis 😔
+**Hola!**
 
+Comandos Basicos de GIT:
+```console
+git status
+git add .
+git commit
+git pull
+```
 
-
-xd
+```css
+html, body {
+ background-color: #232323;
+}
+```
