@@ -21,3 +21,11 @@ JS:
 ```js
 console.log(2 + 3); // un calculo bastante simple
 ```
+
+
+```html
+<!DOCTYPE html>
+
+<html>
+</html>
+```
