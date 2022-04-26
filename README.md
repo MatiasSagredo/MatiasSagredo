@@ -21,7 +21,7 @@ JS:
 ```js
 console.log(2 + 3); // un calculo bastante simple
 ```
-
+HTML:
 
 ```html
 <!DOCTYPE html>
